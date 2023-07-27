@@ -20,8 +20,7 @@ fighters.push('https://i.postimg.cc/N0G79t5F/Screenshot-2023-07-24-104340-remove
 fighters.push('https://i.postimg.cc/5ttL9mRF/Screenshot-2023-07-24-104452-removebg-preview.png');
 fighters.push('https://i.postimg.cc/dtxKSQKP/Screenshot-2023-07-24-104619-removebg-preview.png');
 fighters.push('https://i.postimg.cc/59HcQdCs/Screenshot-2023-07-24-104716-removebg-preview.png');
-fighters.push('https://i.postimg.cc/xjmxS0HV/Screenshot-2023-07-24-104855-removebg-preview-1.png');
-
+fighters.push('https://i.postimg.cc/mDc3qtPt/Screenshot-2023-07-24-104855-removebg-preview-5.png');
 
 let stageEl = document.getElementById("stage");
 let fightButton = document.getElementById("fightButton");
